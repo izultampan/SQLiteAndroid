@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ORMLearning</string>
+    <string name="splash_screen_title">Splash Screen ...</string>
+    <string name="login_screen_title">Login Form</string>
+    <string name="user_name">User Name : </string>
+    <string name="password">Password : </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_username_password_wrong">Wrong username or password</string>
+    <string name="separator">|</string>
+    <string name="update">U</string>
+    <string name="delete">D</string>
+    <string name="remark">Type your remark here</string>
+    <string name="attend">Attend</string>
+    <string name="leave">Leave</string>
+    <string name="sick">Sick</string>
+    <string name="attendance_default">Not define</string>
+</resources>
